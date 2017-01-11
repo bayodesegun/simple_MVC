@@ -1,8 +1,9 @@
 	</div>
 
-  <div class = "navbar navbar-fixed-bottom">
+  <div">
+  <hr>
 	<div class="container">
-		<h4><?php echo $GLOBALS['defaultFooter']?></h4>
+		<h5 class="pull-right"><?php echo $GLOBALS['defaultFooter']?></h5>
 	</div>
 </div>
 
